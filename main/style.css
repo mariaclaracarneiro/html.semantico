@@ -1,0 +1,14 @@
+@import url();
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: : "oswald", sans-serif;
+}40
+h1 {
+    background: #1f0099;
+    color:#ffffff;
+    padding: 10px;
+    text-align; center;
+}
